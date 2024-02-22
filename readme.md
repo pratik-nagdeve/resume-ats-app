@@ -6,7 +6,7 @@ This application is designed to help streamline the process of parsing and analy
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your_username/resume-ats-app.git
+    git clone https://github.com/tadiparChinese/resume-ats-app.git
     ```
 
 2. Navigate to the project directory:
